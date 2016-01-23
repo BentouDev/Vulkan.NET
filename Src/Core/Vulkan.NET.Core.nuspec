@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Vulkan.NET</id>
+    <version>1.0.0</version>
+    <authors>MrJaqbq;LukaszPyrzyk</authors>
+    <owners>MrJaqbq;LukaszPyrzyk</owners>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/MrJaqbq/Vulkan.NET</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Vulkan implementation for dotNet Core</description>
+    <copyright>Copyright 2016</copyright>
+    <tags>vulkan vulcan opengl api graphics gamedev dnx dotnet core</tags>
+  </metadata>
+</package>
